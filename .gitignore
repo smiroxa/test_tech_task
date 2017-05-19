@@ -1,0 +1,8 @@
+/.idea/
+/ebin/
+/_rel/
+test_tech_task.d
+logs/
+/test/*.beam
+.erlang.mk/
+erlang.mk
